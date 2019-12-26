@@ -1,0 +1,16 @@
+.DS_Store
+build
+out
+database
+.idea
+.gradle
+node_modules
+src/main/genjs/api
+src/main/genjs/core
+src/genjs
+src/gen
+tools
+src/main/resources/static/js/tronjs/tron-protoc.js
+Wallet
+logs
+FileTest
